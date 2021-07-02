@@ -10,6 +10,9 @@
 - Audio : Realtek ALC256
 - I2C Trackpad + PS2 keyboard
 
+## OS
+This is for Big Sur, I've tested this in 11.4. If you want to use other version you must change `AirportItlwm.kext` to match your version and update `config.plist`.
+
 ## What is working
 
 - Graphics  
