@@ -4,7 +4,7 @@
 - Graphics : Intel UHD 620
 - RAM : 8 GB DDR4 2400 MHz (non-replaceable) + 4 GB DDR4 SODIMM 2400 MHz
 - SSD : Adata SX8200 Pro 512GB and VGEN SSD SATA III 256GB (Installed Hackintosh in this disk)
-- Screen : 15-inch 1920 x 1080 IPS
+- Screen : 14-inch 1920 x 1080 IPS
 - Ports : 1xUSB 3.1 Gen-1 Type-C, 2xUSB 3.0, 1xUSB 2.0, 1xHDMI (full-size), 1xAudio jack
 - Wifi/Bluetooth : Intel AC-7265, (M.2 NGFF)
 - Audio : Realtek ALC256
