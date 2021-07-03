@@ -43,9 +43,12 @@ This is for Big Sur, I've tested this in 11.4. If you want to use other version 
 
 - HDMI
 
+- Line In Mic
+    - Use [ComboJack](https://github.com/hackintosh-stuff/ComboJack) to enable
+
 ## What is NOT working
 
-- Internal and External Mic
+- Internal Mic
 
 **What was not tested**
 
